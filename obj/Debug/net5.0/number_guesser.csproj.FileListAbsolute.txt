@@ -1,0 +1,16 @@
+C:\Coding\number_guesser\bin\Debug\net5.0\number_guesser.exe
+C:\Coding\number_guesser\bin\Debug\net5.0\number_guesser.deps.json
+C:\Coding\number_guesser\bin\Debug\net5.0\number_guesser.runtimeconfig.json
+C:\Coding\number_guesser\bin\Debug\net5.0\number_guesser.runtimeconfig.dev.json
+C:\Coding\number_guesser\bin\Debug\net5.0\number_guesser.dll
+C:\Coding\number_guesser\bin\Debug\net5.0\ref\number_guesser.dll
+C:\Coding\number_guesser\bin\Debug\net5.0\number_guesser.pdb
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.csproj.AssemblyReference.cache
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.AssemblyInfoInputs.cache
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.AssemblyInfo.cs
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.csproj.CoreCompileInputs.cache
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.dll
+C:\Coding\number_guesser\obj\Debug\net5.0\ref\number_guesser.dll
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.pdb
+C:\Coding\number_guesser\obj\Debug\net5.0\number_guesser.genruntimeconfig.cache
